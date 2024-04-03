@@ -5,11 +5,10 @@
 - Schwierigkeiten?
 - Einfache Nutzung?
 - Geeignet für Nicht-programmierer?
-- In python und in orange alles machen, falls es in orange nicht geht würde man ne vorverarbeitung machen, dh in python alle datensätze einlesen und alles in einen mega datensatz zusammenfügen
+- In python und in orange alles machen, falls es in orange nicht geht würde man ne vorverarbeitung machen, dh in python diese machen und das dann auch beschreiben.
 - geht um vergleich zwischen python und orange
-- kann orange mehrere (50) Datensätze einlesen?
 
 ## Datensatz:
-https://www.fueleconomy.gov/feg/download.shtml
+https://ai-jobs.net/salaries/download/
 ## Orange:
 https://orangedatamining.com/
